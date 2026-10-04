@@ -1,0 +1,8 @@
+Package: com.gushi.vpntime
+Name: VPNTime
+Version: 1.0.1
+Architecture: iphoneos-arm64e
+Description: fresh test
+Maintainer: gushi
+Author: gushi
+Section: Tweaks
